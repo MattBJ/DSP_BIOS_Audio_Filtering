@@ -1,0 +1,1 @@
+"./MattB_HW8_v2cfg.obj" "./MattB_HW8_v2cfg_c.obj" "./main.obj" -l"./MattB_HW8_v2cfg.cmd" -l"libc.a" -l"C:\Users\bai45916\Desktop\Embedded_Libraries\DSK6713\c6000\dsk6713\lib\dsk6713bsl.lib" -l"C:\Program Files\C6xCSL\lib_3x\csl6713.lib" 
